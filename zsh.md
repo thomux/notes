@@ -1,3 +1,11 @@
+# Additional plugins
+
+https://github.com/zsh-users/zsh-syntax-highlighting
+
+https://github.com/zsh-users/zsh-autosuggestions
+
+# Config
+
 ZSH_THEME="robbyrussell"
 
 plugins=(
