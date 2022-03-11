@@ -4,6 +4,10 @@ https://github.com/zsh-users/zsh-syntax-highlighting
 
 https://github.com/zsh-users/zsh-autosuggestions
 
+# Additional tools
+
+apt install python3-pygments 
+
 # Config
 
 ZSH_THEME="robbyrussell"
