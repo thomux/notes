@@ -2,6 +2,7 @@ Vim
 
 # Vim
 
+Native packages: https://shapeshed.com/vim-packages/
 
 ## Keys
 
