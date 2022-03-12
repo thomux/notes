@@ -25,3 +25,22 @@ Articles:
 ### C Programming
 - https://en.wikibooks.org/wiki/C_Programming/Common_practices
 - https://en.wikibooks.org/wiki/C_Programming/Preprocessor_directives_and_macros
+
+## 2022-03-12
+
+### Yocto builds with Docker
+- https://github.com/thomux/odrioid
+
+### Heterogeneous Mulitprocessing
+- Linux Magazin 2015/1 Kerntechnik
+- https://www.linaro.org/blog/heterogeneous-multicore-systems-the-new-open-source-frontier/
+
+### Yocto configuration
+- https://elinux.org/images/1/1f/Read-only_rootfs.pdf
+- https://stackoverflow.com/questions/36595517/read-only-file-system-on-yocto
+- https://github.com/cmhe/meta-readonly-rootfs-overlay
+- https://elinux.org/images/6/62/Building-Container-Images-with-OpenEmbedded-and-the-Yocto-Project-Scott-Murray-Konsulko-Group-1.pdf
+- https://pretalx.com/yocto-project-summit-2020/talk/BTUKPJ/
+- https://embedded-recipes.org/2018/talk/using-yocto-to-generate-container-images-for-yocto/
+- https://dev.to/davidjenei/build-your-own-minimal-container-os-with-podman-on-arm-15ia
+- https://wiki.koansoftware.com/index.php/Add_a_systemd_service_file_into_a_Yocto_image
