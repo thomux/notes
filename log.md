@@ -44,3 +44,19 @@ Articles:
 - https://embedded-recipes.org/2018/talk/using-yocto-to-generate-container-images-for-yocto/
 - https://dev.to/davidjenei/build-your-own-minimal-container-os-with-podman-on-arm-15ia
 - https://wiki.koansoftware.com/index.php/Add_a_systemd_service_file_into_a_Yocto_image
+
+## 2022-03-13
+### Docker
+- https://www.putorius.net/limit-docker-container-access-to-certain-ip-addresses.html
+
+### Yocto
+- https://www.thegoodpenguin.co.uk/blog/yocto-security-hardening-cve/
+- https://hub.mender.io/t/how-to-create-custom-images-using-yocto-project/902
+- https://dev.to/davidjenei/build-your-own-minimal-container-os-with-podman-on-arm-15ia
+- https://git.yoctoproject.org/poky/plain/meta/recipes-core/dropbear/dropbear.inc
+- https://stackoverflow.com/questions/68161323/yocto-dropbear-denying-password
+- https://blog.savoirfairelinux.com/en-ca/2020/integrating-container-image-in-yocto/
+- https://wiki.koansoftware.com/index.php/Add_a_systemd_service_file_into_a_Yocto_image
+
+### Balena OS (container embedded distro)
+- https://www.balena.io/os/docs/odroid-xu4/getting-started/
